@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BorrowBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditBorrowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageBorrowsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCreditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowAllBorrows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowAllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowAllBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
