@@ -58,12 +58,6 @@ This project is a **Library Management System** written in C# as part of the mid
 
 1. Clone this repository:
 
-    ```bash
-
-    git clone https://github.com/yourusername/library-management-system.git
-
-    ```
-
 2. Open the solution file (`.sln`) in Visual Studio.
 
 3. Build the project and run the application.
